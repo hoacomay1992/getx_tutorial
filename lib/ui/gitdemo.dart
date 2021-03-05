@@ -8,7 +8,10 @@ class GetxDemoGit extends StatelessWidget {
       appBar: AppBar(),
       body: Container(
         child: Column(
-          children: [],
+          children: [
+            Text("Hoa co may"),
+            Text("Chau tinh tri"),
+          ],
         ),
       ),
     );
